@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+#subTotal {
+  text-align: center;
+  width: 300px;
+  border: 1px solid grey;
+  margin: auto;
+  height: 80px;
+  margin-top: 50px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px grey;
+}
+.cd {
+  overflow: auto;
+  scrollbar-darkshadow-color: green;
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(transparent, grey);
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(transparent, rgb(60, 55, 55));
+}
+.ftbtn:hover {
+  border: 1px solid white;
+  /* color: blaeck; */
+}
+.adToCart {
+  border: 2px solid black;
+}
+.saleImg1 {
+  width: 100%;
+  height: 50vh;
+  background-image: url(Images/girlimg.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+.saleImg2 {
+  /* padding-top: 5%; */
+  /* margin-top: 15%; */
+  margin-bottom: 10%;
+  width: 100%;
+  height: 50vh;
+  background-image: url(Images/newsaleimg.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}

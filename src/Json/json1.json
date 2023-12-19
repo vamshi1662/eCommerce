@@ -1,0 +1,140 @@
+{
+  "a": [
+    {
+      "Firstname": "Vamshi",
+      "Lastname": "Bandari",
+      "Email": "vamshi",
+      "Password": "vamshi",
+      "id": 1
+    },
+    {
+      "Firstname": "admin",
+      "Lastname": "admin",
+      "Email": "admin",
+      "Password": "admin",
+      "id": 2
+    },
+    {
+      "Firstname": "admin",
+      "Lastname": "admin",
+      "Email": "admin",
+      "Password": "admin",
+      "id": 3
+    },
+    {
+      "Firstname": "ad",
+      "Lastname": "ad",
+      "Email": "ad",
+      "Password": "ad",
+      "id": 4
+    },
+    {
+      "Firstname": "ad",
+      "Lastname": "ad",
+      "Email": "ad",
+      "Password": "ad",
+      "id": 5
+    },
+    {
+      "Firstname": "a",
+      "Lastname": "a",
+      "Email": "a",
+      "Password": "a",
+      "id": 6
+    },
+    {
+      "Firstname": "b",
+      "Lastname": "b",
+      "Email": "b",
+      "Password": "b",
+      "id": 7
+    },
+    {
+      "Firstname": "v",
+      "Lastname": "v",
+      "Email": "v",
+      "Password": "v",
+      "id": 8
+    },
+    {
+      "Firstname": "q",
+      "Lastname": "q",
+      "Email": "q",
+      "Password": "q",
+      "id": 9
+    },
+    {
+      "Firstname": "f",
+      "Lastname": "f",
+      "Email": "f",
+      "Password": "f",
+      "id": 10
+    },
+    {
+      "Firstname": "f",
+      "Lastname": "f",
+      "Email": "f",
+      "Password": "f",
+      "id": 11
+    },
+    {
+      "Firstname": "f",
+      "Lastname": "f",
+      "Email": "f",
+      "Password": "f",
+      "id": 12
+    },
+    {
+      "Firstname": "vg",
+      "Lastname": "g",
+      "Email": "g",
+      "Password": "g",
+      "id": 13
+    },
+    {
+      "Firstname": "g",
+      "Lastname": "g",
+      "Email": "g",
+      "Password": "g",
+      "id": 14
+    },
+    {
+      "Firstname": "h",
+      "Lastname": "h",
+      "Email": "h",
+      "Password": "h",
+      "id": 15
+    },
+    {
+      "Firstname": "j",
+      "Lastname": "j",
+      "Email": "j",
+      "Password": "j",
+      "id": 16
+    },
+    {
+      "Firstname": "g",
+      "Lastname": "g",
+      "Email": "g",
+      "Password": "g",
+      "id": 17
+    },
+    {
+      "Firstname": "v",
+      "Lastname": "v",
+      "Email": "v",
+      "Password": "v",
+      "id": 18
+    }
+  ],
+  "product": [
+    {
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "category": "men's clothing",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "cartvalue": 1,
+      "id": 3
+    }
+  ]
+}
