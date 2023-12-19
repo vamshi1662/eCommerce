@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eCommerce/static/css/main.fee9e4d5.css",
+    "main.js": "/eCommerce/static/js/main.7dd72f96.js",
+    "static/js/787.41e393b4.chunk.js": "/eCommerce/static/js/787.41e393b4.chunk.js",
+    "static/media/girlimg.jpg": "/eCommerce/static/media/girlimg.e69016a39852a3c28264.jpg",
+    "static/media/newsaleimg.jpg": "/eCommerce/static/media/newsaleimg.604be513e0638b250aae.jpg",
+    "index.html": "/eCommerce/index.html",
+    "main.fee9e4d5.css.map": "/eCommerce/static/css/main.fee9e4d5.css.map",
+    "main.7dd72f96.js.map": "/eCommerce/static/js/main.7dd72f96.js.map",
+    "787.41e393b4.chunk.js.map": "/eCommerce/static/js/787.41e393b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee9e4d5.css",
+    "static/js/main.7dd72f96.js"
+  ]
+}
